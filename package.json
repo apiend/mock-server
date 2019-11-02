@@ -23,7 +23,7 @@
     },
     "devDependencies": {
         "debug": "^2.6.8",
-        "eslint": "^3.8.1",
+        "eslint": "^6.6.0",
         "eslint-config-standard": "^6.2.0",
         "eslint-plugin-promise": "^3.3.0",
         "eslint-plugin-standard": "^2.0.1",
